@@ -1,0 +1,9 @@
+Este dashboard apresenta uma análise das tendências de vídeos entre 2017 e 2018.
+
+O gráfico principal mostra a evolução do número de vídeos ao longo do tempo, dividido por categorias.
+
+O gráfico de pizza apresenta a distribuição percentual dos vídeos por país.
+
+A tabela detalha o número de vídeos por categoria e por país, permitindo uma análise mais específica.
+
+O dashboard permite identificar padrões de crescimento, comparar categorias e observar diferenças entre regiões.
